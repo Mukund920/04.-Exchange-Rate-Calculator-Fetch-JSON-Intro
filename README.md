@@ -27,3 +27,4 @@ The Exchange Rate Calculator is a web application that allows users to easily co
 ## Exchange Rates API
 This application uses an external API to fetch the latest exchange rates. Make sure to replace API_KEY in the script.js file with your own API key.
    
+![API exchange rate](https://github.com/user-attachments/assets/60aba8af-9e79-4ddf-96d4-7dd6e72a7e87)
