@@ -10,13 +10,6 @@ The Exchange Rate Calculator is a web application that allows users to easily co
 - Fetches and displays the latest exchange rates.
 - Swap currencies functionality.
 
-## Installation
-1. Clone the repository:
-   git clone https://github.com/yourusername/exchange-rate-calculator.git
-2. Navigate to the project directory:
-   cd exchange-rate-calculator
-3. Open the index.html file in your web browser.
-
 ## How to Use
 1. Select the currency you want to convert from in the first dropdown menu.
 2. Enter the amount you want to convert.
